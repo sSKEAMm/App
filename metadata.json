@@ -1,0 +1,7 @@
+{
+  "name": "MyAppSKEAMDEV",
+  "description": "A comprehensive recipe and meal planning application that generates personalized, budget-friendly recipes based on user preferences, dietary requirements, and available ingredients using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
